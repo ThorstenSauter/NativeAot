@@ -1,0 +1,15 @@
+﻿<Project>
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Thorsten Sauter</Authors>
+    <Copyright>2025 Thorsten Sauter</Copyright>
+    <Company>Thorsten Sauter</Company>
+    <PackageProjectUrl>https://github.com/ThorstenSauter/NativeAot</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ThorstenSauter/NativeAot</RepositoryUrl>
+    <PrivateRepositoryUrl>https://github.com/ThorstenSauter/NativeAot</PrivateRepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <NoWarn>$(NoWarn);CS1591;NU1507</NoWarn>
+  </PropertyGroup>
+</Project>

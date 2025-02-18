@@ -1,0 +1,14 @@
+﻿<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <NuGetAudit>true</NuGetAudit>
+    <NuGetAuditLevel>low</NuGetAuditLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="9.0.2"/>
+    <PackageVersion Include="Microsoft.Extensions.Http" Version="9.0.2"/>
+    <PackageVersion Include="Microsoft.IdentityModel.JsonWebTokens" Version="8.5.0"/>
+    <PackageVersion Include="SonarAnalyzer.CSharp" Version="10.6.0.109712"/>
+    <PackageVersion Include="System.Security.Cryptography.ProtectedData" Version="9.0.1"/>
+  </ItemGroup>
+</Project>
