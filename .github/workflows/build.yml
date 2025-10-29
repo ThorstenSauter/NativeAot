@@ -21,7 +21,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
       - name: Build solution and run tests
-        uses: ThorstenSauter/dotnet-actions/build-and-test@5a6ccb42bde2ba0cb6cea958cda79d325cc26224 # v1.0.4
+        uses: ThorstenSauter/dotnet-actions/build-and-test@0018fd01acd7f1ab5a46c8ace6995f3e23f321c1 # v2.0.0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           nuget-auth-token: ${{ secrets.NUGET_GITHUB_PACKAGES_TOKEN }}
