@@ -8,7 +8,7 @@
     <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="10.0.1" />
     <PackageVersion Include="Microsoft.Extensions.Http" Version="10.0.1" />
     <PackageVersion Include="Microsoft.IdentityModel.JsonWebTokens" Version="8.15.0" />
-    <PackageVersion Include="SonarAnalyzer.CSharp" Version="10.17.0.131074" />
+    <PackageVersion Include="SonarAnalyzer.CSharp" Version="10.18.0.131500" />
     <PackageVersion Include="System.Security.Cryptography.ProtectedData" Version="10.0.1" />
   </ItemGroup>
 </Project>
