@@ -23,7 +23,6 @@ jobs:
       - name: Build solution and run tests
         uses: ThorstenSauter/dotnet-actions/build-and-test@4bc50546643467a484886b186fe74e087b678711 # v3.1.0
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
           nuget-auth-token: ${{ secrets.NUGET_GITHUB_PACKAGES_TOKEN }}
           nuget-feed-uri: ${{ vars.NUGET_FEED_URI }}
           run-tests: 'false'
