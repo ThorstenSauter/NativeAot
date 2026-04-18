@@ -5,10 +5,10 @@
     <NuGetAuditLevel>low</NuGetAuditLevel>
   </PropertyGroup>
   <ItemGroup>
-    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="10.0.5" />
-    <PackageVersion Include="Microsoft.Extensions.Http" Version="10.0.5" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="10.0.6" />
+    <PackageVersion Include="Microsoft.Extensions.Http" Version="10.0.6" />
     <PackageVersion Include="Microsoft.IdentityModel.JsonWebTokens" Version="8.17.0" />
     <PackageVersion Include="SonarAnalyzer.CSharp" Version="10.23.0.137933" />
-    <PackageVersion Include="System.Security.Cryptography.ProtectedData" Version="10.0.5" />
+    <PackageVersion Include="System.Security.Cryptography.ProtectedData" Version="10.0.6" />
   </ItemGroup>
 </Project>
